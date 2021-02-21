@@ -2,7 +2,7 @@
 >Do you also hate the time it takes you to search on Google Maps when the bus should arrive at a stop? Well I do, a lot, especially when I waste those 2 good minutes looking for it while I'm tying my shoes or brushing my teeth and then losing it..
 
 >So I decided to create a skill for an eventual Alexa if I ever have to buy it.
->Save those 2 minutes too.
+>Save those 2 minutes you too.
 
 # Bus Torino
 I have made the structure of this skill, the implementation of the database is leave to you.
