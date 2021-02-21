@@ -1,0 +1,9 @@
+SaveBusAndStopIntent:
+
+apri gtt e salva nella fermata {stop} il pullman {bus}
+apri gtt e salva il pullman {bus} nella fermata {stop}
+
+RetrieveGttBusIntent:
+
+chiedi a gtt quando passa il {pullman}
+chiedi a gtt tra quanto passa il {pullman}

@@ -1,0 +1,8 @@
+dbname:
+  DB_NAME
+username:
+  DB_USERNAME
+hostname:
+  DB_HOSTNAME
+password:
+  DB_PASSWORD
