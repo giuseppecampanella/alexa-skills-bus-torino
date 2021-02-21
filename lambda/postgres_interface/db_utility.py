@@ -14,7 +14,7 @@ class Database:
         self.conn = psycopg2.connect(dbname=self.db, password=self.password, user=self.user, host=self.hostname)
 
     def config(self):
-        yaml_dir = './polls/postgres_interface/config.yaml'
+        yaml_dir = './postgres_interface/config.yaml'
         if os.path.isfile(yaml_dir):
             with open(yaml_dir, 'r') as ymlfile:
                 cfg = yaml.load(ymlfile, yaml.Loader)
